@@ -1,10 +1,10 @@
 # Alternative Crude Oil Export Project (ACOE)
-**Scope**: Decommissioning support and As left Survey  
-**Date:** November 2024  
-**Client:** Shell Nigeria  
-**Vessel:** Boka Falcon  
-**Role:** Online Surveyor 
-**Project Location**: Forcados Field
+-**Scope**: Decommissioning support and As left Survey  
+-**Date:** November 2024  
+-**Client:** Shell Nigeria  
+-**Vessel:** Boka Falcon  
+-**Role:** Online Surveyor 
+-**Project Location**: Forcados Field
 
 ## Responsibilities  
 As the online surveyor for the SBM 2 seabed survey and EIA, I:  
